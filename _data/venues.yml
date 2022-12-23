@@ -5,7 +5,7 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Nature Methods":
+"Nat. Methods":
   url: https://www.nature.com/nmeth/
 
 "NeurIPS":
@@ -13,3 +13,7 @@
 
 "arXiv":
   url: https://arxiv.org/
+  color: "#B31B1B"
+
+"bioRxiv":
+  url: https://www.biorxiv.org/
