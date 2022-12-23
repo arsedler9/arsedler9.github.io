@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student in the interdisciplinary [machine learning program](https://ml.gatech.edu/phd) at Georgia Tech. I work with Chethan Pandarinath in the [Systems Neural Engineering Lab](https://snel.gatech.edu/), designing deep models that leverage the dynamical structure underlying neural population recordings. My most noteworthy projects include a framework for robust tuning of sequential autoencoders on neural data (AutoLFADS) and a training technique that increases the resolution of sparsely sampled neural data (selective backpropagation through time).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I majored in biomedical and electrical engineering at Clemson University after attending the SC Governor's School for Science and Math in Hartsville, SC. Outside of research, I enjoy cooking, weight training, travel, and spending time outdoors. 

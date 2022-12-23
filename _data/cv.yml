@@ -1,32 +1,18 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Machine Learning
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: 2017 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Curriculum focused on ML theory, statistics, and optimization with minor in computational neuroscience
+        - 2018 NSF Graduate Research Fellow ($138,000 over 3 years), Herbert P. Haley Fellow ($4,000 one-time)
+    - title: BS, Bioengineering
+      institution: Clemson University, Clemson, SC
+      year: 2013 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Bioelectrical focus; curriculum included biology, biomedical technologies, and electrical engineering fundamentals
+        - Summa Cum Laude, General Honors and Departmental Honors (<1.2% of students)
 
 - title: Experience
   type: time_table
