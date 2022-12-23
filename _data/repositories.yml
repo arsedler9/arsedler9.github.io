@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - arsedler9
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - snel-repo/autolfads-tf2
+  - snel-repo/sbtt-demo
+  - snel-repo/expressive-latent-dynamics-paper
+  - arsedler9/nlb-lightning
