@@ -1,8 +1,10 @@
 "Nat. Methods":
   url: https://www.nature.com/nmeth/
+  color: "#EB5B24"
 
 "NeurIPS":
   url: https://neurips.cc/
+  color: "#68438C"
 
 "arXiv":
   url: https://arxiv.org/
