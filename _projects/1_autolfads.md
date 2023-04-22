@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: AutoLFADS
-description: Large-scale, automated training framework for robust inference of population dynamics
+description: A large-scale, automated training framework for robust inference of population dynamics
 img: assets/img/overfitting.png
 importance: 1
 category: work
