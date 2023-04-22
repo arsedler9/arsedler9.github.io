@@ -12,3 +12,12 @@
 
 "bioRxiv":
   url: https://www.biorxiv.org/
+  color: "#B31B1B"
+
+"NBDT":
+  url: https://nbdt.scholasticahq.com/
+  color: "#CC206C"
+
+"JOSS":
+  url: https://joss.theoj.org/
+  color: "#4583D2"
