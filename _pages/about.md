@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a freshly minted PhD graduate from the [machine learning program](https://ml.gatech.edu/phd) at Georgia Tech, in search of new opportunities in applied ML science and engineering. I am particularly excited about applications in wearables, health, and biotechnology.
+I'm a freshly minted graduate from the [machine learning PhD program](https://ml.gatech.edu/phd) at Georgia Tech, in search of new opportunities in applied ML science and engineering. I am particularly excited about applications of deep learning in wearables, health, and biotechnology.
 
 My primary expertise is in principled design, implementation, and evaluation of deep learning architectures (recurrent neural networks, neural ordinary differential equations, transformers, etc.) for high-dimensional time series and other sequential data types.
 
