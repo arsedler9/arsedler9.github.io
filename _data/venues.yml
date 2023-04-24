@@ -1,23 +1,23 @@
 "Nat. Methods":
   url: https://www.nature.com/nmeth/
-  color: "#EB5B24"
+  # color: "#EB5B24"
 
 "NeurIPS":
   url: https://neurips.cc/
-  color: "#68438C"
+  # color: "#68438C"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#B31B1B"
+  # color: "#B31B1B"
 
 "bioRxiv":
   url: https://www.biorxiv.org/
-  color: "#B31B1B"
+  # color: "#B31B1B"
 
 "NBDT":
   url: https://nbdt.scholasticahq.com/
-  color: "#CC206C"
+  # color: "#CC206C"
 
 "JOSS":
   url: https://joss.theoj.org/
-  color: "#4583D2"
+  # color: "#4583D2"
