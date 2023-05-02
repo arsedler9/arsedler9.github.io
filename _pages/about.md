@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Researcher | Biomedical Engineer
+subtitle: Machine Learning Scientist
 
 profile:
   align: right
@@ -24,4 +24,4 @@ My primary expertise is in principled design, implementation, and evaluation of 
 
 My dissertation research with Chethan Pandarinath in the [Systems Neural Engineering Lab](https://snel.gatech.edu/) developed more general, interpretable, and usable models for biological neural activity, with applications in computational neuroscience and brain-computer interfaces.
 
-I studied biomedical and electrical engineering at Clemson University after attending the SC Governor's School for Science and Math in Hartsville, SC. Outside of research, I enjoy cooking, weight training, travel, and spending time outdoors. 
+I studied biomedical and electrical engineering at Clemson University after attending the SC Governor's School for Science and Math in Hartsville, SC. Outside of research, I enjoy cooking, strength training, travel, and spending time outdoors. 
