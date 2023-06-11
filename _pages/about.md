@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Scientist
+subtitle: Applied ML Science and Engineering
 
 profile:
   align: right
@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a freshly minted graduate from the [machine learning PhD program](https://ml.gatech.edu/phd) at Georgia Tech, in search of new opportunities in applied ML science and engineering. I am particularly excited about applications of deep learning in wearables, health, and biotechnology.
+I'm a versatile, organized, and collaborative ML scientist and engineer, actively seeking new opportunities in wearables, health, biotech, or a similar domain. I'm eager to join an experienced and like-minded team.
 
-My primary expertise is in principled design, implementation, and evaluation of deep learning architectures (recurrent neural networks, neural ordinary differential equations, transformers, etc.) for high-dimensional time series and other sequential data types.
+In recent projects, I've led model design and development efforts and engineered scalable training and experiment tracking pipelines for both time series modeling and computer vision.
 
-My dissertation research with Chethan Pandarinath in the [Systems Neural Engineering Lab](https://snel.gatech.edu/) developed more general, interpretable, and usable models for biological neural activity, with applications in computational neuroscience and brain-computer interfaces.
+My dissertation research at Georgia Tech developed models and training techniques for biological neural activity, with applications in brain-computer interfaces and computational neuroscience.
 
-I studied biomedical and electrical engineering at Clemson University after attending the SC Governor's School for Science and Math in Hartsville, SC. Outside of research, I enjoy cooking, strength training, travel, and spending time outdoors. 
+I studied biomedical and electrical engineering at Clemson University after attending the SC Governor's School for Science and Math in Hartsville, SC. In my free time I enjoy cooking, strength training, travel, and spending time outdoors.
